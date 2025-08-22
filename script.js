@@ -1,84 +1,18 @@
 const newsData = [
   {
-    title: "New Minecraft Update 1.21.8 Available",
+    title: "Tuff Client 1.1 In Development!",
     preview:
-      "Experience enhanced cave generation, new biomes, and improved multiplayer stability. Perfect for Lunar Client optimization.",
-    date: "2 hours ago",
-    badge: "Update",
+      "Tuff Client 1.1 wil include revamps, significant preformance improvements, ability to go under y0, ViaBlocks, and 1.21 entity support!",
+    badge: "Article",
     badgeColor: "#4CAF50",
   },
   {
-    title: "Lunar Client Performance Boost",
+    title: "Astra 2 is in development",
     preview:
-      "Latest client update improves FPS by up to 40% and reduces memory usage. Automatic mod optimization included.",
-    date: "1 day ago",
-    badge: "Performance",
-    badgeColor: "#2196F3",
-  },
-  {
-    title: "Weekly Tournament Announced",
-    preview:
-      "Join thousands of players in our weekly PvP tournament. Prize pool of $5,000 and exclusive cosmetics available.",
-    date: "2 days ago",
-    badge: "Event",
-    badgeColor: "#FF9800",
-  },
-  {
-    title: "Security Patch Released",
-    preview:
-      "Important security improvements and bug fixes. Auto-update recommended for all users running previous versions.",
-    date: "3 days ago",
-    badge: "Security",
-    badgeColor: "#F44336",
-  },
-  {
-    title: "New Mod Support Added",
-    preview:
-      "Extended compatibility with popular mods including OptiFine alternatives and shader packs. Better mod management tools.",
-    date: "5 days ago",
-    badge: "Feature",
-    badgeColor: "#9C27B0",
-  },
-  {
-    title: "Server Maintenance Complete",
-    preview:
-      "All servers are back online with improved stability and reduced latency. Thank you for your patience during the maintenance window.",
-    date: "1 week ago",
-    badge: "Maintenance",
-    badgeColor: "#607D8B",
-  },
-  {
-    title: "Halloween Event Live Now",
-    preview:
-      "Spooky cosmetics, special game modes, and limited-time rewards are now available. Event runs until November 2nd.",
-    date: "1 week ago",
-    badge: "Event",
-    badgeColor: "#FF6600",
-  },
-  {
-    title: "Anti-Cheat System Updated",
-    preview:
-      "Enhanced detection algorithms and improved reporting system. Fair play is our top priority for all players.",
-    date: "10 days ago",
-    badge: "Security",
-    badgeColor: "#F44336",
-  },
-  {
-    title: "Community Spotlight: Best Builds",
-    preview:
-      "Check out the most impressive builds from our community this month. Featured creators receive special recognition badges.",
-    date: "2 weeks ago",
-    badge: "Community",
-    badgeColor: "#9C27B0",
-  },
-  {
-    title: "Mobile App Beta Testing",
-    preview:
-      "Sign up for early access to the Lunar Client mobile companion app. Monitor stats, chat with friends, and more on the go.",
-    date: "2 weeks ago",
-    badge: "Beta",
-    badgeColor: "#FF9800",
-  },
+      "A sucessors which will be rewritted from the ground up to be faster, more stable, and more secure.",
+    badge: "Article",
+    badgeColor: "#4CAF50",
+  }
 ];
 
 function populateNews() {
