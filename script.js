@@ -25,7 +25,6 @@ function populateNews() {
     newsItem.innerHTML = `
                     <div class="news-item-header">
                         <span class="news-badge" style="background: linear-gradient(45deg, ${item.badgeColor}, ${item.badgeColor}aa);">${item.badge}</span>
-                        <span class="news-date">${item.date}</span>
                     </div>
                     <div class="news-title-text">${item.title}</div>
                     <div class="news-preview">${item.preview}</div>
