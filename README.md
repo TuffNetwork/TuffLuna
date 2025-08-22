@@ -1,1 +1,2 @@
-# A small, deployable launcher based around the Lunar Client esque style. 
+# A small, deployable launche
+Literally fork/clone it and host your own site! Supports Static Pages and literally anything
